@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Eduardo Órfão
 
-- 🔭 I’m currently working on ...
+- 🔭 Hoje trabalho com Ativações
 - 🌱 Estudando Python
 - 💬 Contate-me no email: eduardo.sorfao@gmail.com
 - 😄 Pronouns: ele/dele
